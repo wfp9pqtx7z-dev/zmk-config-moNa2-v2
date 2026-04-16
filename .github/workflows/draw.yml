@@ -7,7 +7,7 @@ on:
     paths:
       - "config/mona2.keymap"
       - "keymap_drawer.config.yaml"
-      - "config/mona2.dtsi"
+      - "boards/shields/mona2/mona2.dtsi"
 
 jobs:
   draw:
