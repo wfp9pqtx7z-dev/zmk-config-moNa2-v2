@@ -16,7 +16,7 @@ layers:
   - D
   - F
   - G
-  - '-'
+  - ENTER
   - H
   - J
   - K
@@ -38,10 +38,10 @@ layers:
   - LEFT WIN
   - LALT
   - {t: LANGUAGE 2, h: '4'}
-  - {t: SPACE, h: '2'}
+  - {t: SPACE, h: '1'}
   - {t: '&to_layer_0 LANGUAGE_1', h: '3'}
   - BACKSPACE
-  - {t: ENTER, h: '1'}
+  - '-'
   - {t: ESCAPE, h: '5'}
   '1':
   - {t: ▽, type: trans}
@@ -81,10 +81,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   '2':
   - F12
@@ -124,7 +124,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
